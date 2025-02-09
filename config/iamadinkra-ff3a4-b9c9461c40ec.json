@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iamadinkra-ff3a4",
+  "private_key_id": "b9c9461c40ece61a30191c63bca2409b18818752",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDrGErd2eutLt+Y\nQzcGorJhu+LCA+1WrVygnaOo+3eLBKE4iLOzBCK1R8NZ8SdElhTABAuMxUjTFY+r\nXyGP+Blsy86vGzb6F29b/ctthIrcaSLe60cHLPCmpTvNz+djOytWoVbX7HrdumwO\nX7th+DM8tE9CQnAJ6K4ia46wfV0dymKaOwOOLHq2DMTdc5PqWplLBOw3+FOjJKce\n7ZPJHvUg7vvkCq9jtw0UMskp1ixa/8GuPc6OhbjqfGmnsuhFH+rZaZOWGlhFveaq\nD1QerygLu/Dm3Lri7H18DJ0r13sz6AvMcsPdw2OTpH0VJNgVtickMKlDxsr7v9w1\n6fxK1ZjVAgMBAAECggEAJEd76i+CdJfKroMU30PFNlrZu+oCOsGHDUw2YNHpmTzu\nKjzCSmpldscryNnzntxwOE+HfsJFIjnuEVqdYcu+FLGA5DnVapOqPi50saJmEWxy\nEqeJLvzK6FSQXYrrYL9VSUmdjrWyIjxuB2vTjWNReNk0b/uzsXvEP5CMlQTLlViF\n1jtq1PoysVirSnJbTkpliuEgGmeiLsL7P9XT1Q9+YnsFWE2ZJzf9KgIczAxn9A0V\nFdjssEQd8orGqZmZPBEW+veG/C1/T8U15dC0YCD690stkavZLhKFWvWOxAqzS/ho\nVwhmTppGBQ9n8HfOgrNAhJ2xLM5bxOYrUfFGgJrC8wKBgQD2CFM1PKwrnRCtPO0v\nJW5lJGSC05EmOOMqBlmU5VJPLoekeleTL2ez+BrG2wVjAcbI9Y5aGjyOli/coWtR\niD8AHyLelKCys6XQcqSCi68wykamTJf0zykwQU6DNCpp18qOYUfIx7IgYS9w3nDK\nc4IlwnioYnzTRdOD0q1GUUGwUwKBgQD0noe0Y18H98CuDrhXg6lRskw/VZoNwGQK\nS34fCjDGJTItMh1JECWsduvhmYvSb9aqjr3yDRDGoZXwm5r129coXNWMP0ORAo7P\nzvy0HUypMnGwFcV63M3O62ovI5gtH6AVO6mclMfgvCKHP89HEWUrd6jYrvql+2h8\nYSV84pmNNwKBgQCbnHpcYqqWzzncCHwP5MHlMNZttLjKjxKG4wtH1J9xu4FJc6Pu\nUP5rYtI00hSfIWGEe2N088E3giB1kJcbM2x9fDQGycS2IlAO/mO0ufqthlKXHjzC\nN0Da54NsEtN8rGLOGRNZF40/U5i478gxFEvN7Cl6fwhqbHCyoM69eeltRwKBgHFo\nziGjsHtRMdOAn5ZzRBzMPO1gEnwtpjPfrClX4CT9ObYaddlZ0x2SROni9iAqGawZ\nYZbG1/A/GfTjL4Ss16Ou5pKPAhRIy00s+ZvHubL34B1y+otrsz8rhZ81MWg6MU2m\ny4v8rm5Syu9Jdh/MwMrWP0G2Xh514ItJvseXhvkhAoGBALe34FkF9a+1nCbNdiYs\ndAsOeSiRECJr2UqTd5tve+hQvou2quqaCkid2mKMGzIJwQGaZfe6K4svMGYHRHBB\nI8UH6UutIGjYk1NNGwuvDYXSfOO2a79mCFW5FvXDRdlFC084EG52eFyJHgpQpqOO\ndpo9cfOz2RMHDZe2oUmuVX8I\n-----END PRIVATE KEY-----\n",
+  "client_email": "wedverify-service@iamadinkra-ff3a4.iam.gserviceaccount.com",
+  "client_id": "105093628428860330338",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wedverify-service%40iamadinkra-ff3a4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
