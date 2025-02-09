@@ -1,8 +1,12 @@
 from flask import Flask, request, jsonify, render_template
 import gspread
 from google.oauth2.service_account import Credentials
+import json
+import os
 
 app = Flask(__name__)
+
+SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
 # Load credentials and authorize
 creds = Credentials.from_service_account_file("config/iamadinkra-ff3a4-b9c9461c40ec.json")
@@ -20,7 +24,7 @@ def home():
 def rsvp():
     data = request.json
     guest_code = data.get("code")
-    rsvp_status = data.get("status")  # Should be "Yes" or "No"
+    rsvp_status = data.get("rsvp_status")  # Should be "Yes" or "No"
 
     if not guest_code or not rsvp_status:
         return jsonify({"error": "Code and RSVP status are required"}), 400
