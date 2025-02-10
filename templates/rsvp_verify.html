@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wedding Check-in</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Check-in for the Wedding</h1>
+        <form id="check-in-form">
+            <input type="text" id="verify-code" placeholder="Enter your 4G code" required>
+            <button type="submit">Verify</button>
+        </form>
+        <p id="check-in-msg" class="success"></p>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
